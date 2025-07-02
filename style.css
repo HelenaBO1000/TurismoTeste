@@ -1,0 +1,48 @@
+body
+{
+  background-color: burlywood;
+  font-style: sans-serife;
+  font-size: 3 rem;
+  margin: 0%;
+}
+header
+{
+    background-color: coral;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+p1
+{
+    color: aliceblue;
+}
+h1
+{
+    color: aliceblue;
+}
+h2
+{
+    color: crimson;
+}
+ul
+{
+    list-style-type:square;
+    padding-left: 10%;
+}
+a:link
+{
+    color: brown;
+}
+a:visited
+{
+    color:crimson;
+}
+main
+{
+    margin-top: 20px;
+
+}
+footer
+{
+    background-color: coral;
+}
